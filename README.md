@@ -19,7 +19,7 @@ How to Use
     $clientInstance = new PdfClient($userId, $apiKey);
     ```
     Replace ``` $userId ``` and ``` $apiKey``` with your id and keys respectively.
-    You can get the API key details from https://www.vedicrishiastro.com/astro-api/
+    You can get the API key details from https://www.astrologyapi.com/
 
 3. Call the api as follows:
     ```php
