@@ -6,7 +6,7 @@ This is PHP client to consume PDF API
 Where to get API Key
 ====================
 
-You can visit https://www.vedicrishiastro.com/astro-api/ to get the astrology API key to be used for your websites or
+You can visit https://www.astrologyapi.com/ to get the astrology API key to be used for your websites or
 mobile applications.
 
 How to Use
@@ -37,4 +37,4 @@ How to Use
         }
     ]
     ```
-For PDF API documentation, visit - http://www.vedicrishiastro.com/docs/pdf-docs.php
+For PDF API documentation, visit - https://www.astrologyapi.com/docs/pdf-docs.php
